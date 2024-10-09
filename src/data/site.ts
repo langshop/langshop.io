@@ -49,7 +49,7 @@ export const site: Site = {
         socials: [
             {
                 name: "github",
-                link: "https://github.com/onadrog",
+                link: "https://github.com/langshop",
             },
         ],
     },
